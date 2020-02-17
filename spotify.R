@@ -53,7 +53,7 @@ analysis_df$decade[281:442] <- '1970s'
 analysis_df$decade[443:624] <- '1980s'
 analysis_df$decade[625:818] <- '1990s'
 analysis_df$decade[819:1087] <- '2000s'
-analysis_df$decade[1088:1327] <- '2010s'
+analysis_df$decade[1088:1329] <- '2010s'
 
 analysis_df$decade <- as.factor(analysis_df$decade)
 
